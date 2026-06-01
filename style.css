@@ -1,0 +1,99 @@
+/* body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    color: #000;
+    background-color: #fff;
+} */
+
+/* h1 {
+    text-align: center;
+    color: blue;   
+}
+.club1 {
+    color: red
+}
+.club2 {
+    color: brown;
+} */
+
+/* p {
+    color: blue;
+}
+
+.simple-text {
+    color: green;
+}
+
+#power-text {
+    color: red;
+}
+
+.channel.title {
+    font-size: 32px;
+}
+
+.channel-name {
+    font-weight: bold;
+}
+
+.channel-name {
+    text-transform: uppercase;
+}
+
+.parent-box {
+    color: purple;
+}
+
+h3 {
+    color: black;
+} */
+/* .active-badge {
+    color: lime;
+    font-weight: bold;
+}
+
+.profile-card {
+background-color: darkslategray;
+  letter-spacing: 2px;
+   color: white;
+}
+.card-title {
+    font-family: sans-serif;
+}
+
+.card-desc {
+    font-style: italic;
+    color: lightgray;
+}
+ */
+
+
+ .main-container {
+    background-color: black;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+ }
+
+ .main-heading {
+    color: yellow;
+     font-family: sans-serif;
+     text-transform: uppercase;
+ }
+
+ .sub-text {
+    color: grey;
+    font-style: italic;
+ }
+
+ .action-link {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 2px;
+ }
+
