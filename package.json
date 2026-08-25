@@ -1,0 +1,28 @@
+{
+  "name": "java_script_independed",
+  "version": "1.0.0",
+  "description": "Bu npmdagi 1-loyiha Reactni mustaqil organish yolida",
+  "homepage": "https://github.com/Dilyorbek01/independed-js#readme",
+  "bugs": {
+    "url": "https://github.com/Dilyorbek01/independed-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dilyorbek01/independed-js.git"
+  },
+  "license": "ISC",
+  "author": "Dilyorbek Halimjonov",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "uuid": "^14.0.1",
+    "vite": "^8.1.5"
+  },
+  "devDependencies": {
+    "webpack": "^5.109.0"
+  }
+}

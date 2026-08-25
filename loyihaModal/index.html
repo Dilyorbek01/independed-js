@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MODAL</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="wrapper">
+        <button class="btn show-btn" id="show-btn">
+            Show Modal
+        </button>
+        <div class="modal hidden" id="modal">
+            <div class="modal-header">
+                <h3>I love Football  </h3>
+                <button class="btn close-btn" id="close-btn">
+                    <i class="fas fa-close"></i>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h2 class="modal-title">Modal Title</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia labore commodi maxime asperiores suscipit voluptas est. Provident voluptates vero repellendus quidem beatae ratione? Quod sunt deleniti sed reprehenderit? Consequatur dignissimos, tempore eligendi repellat corrupti ad laudantium atque fuga maiores rerum eius nisi, quibusdam exercitationem dicta.</p>
+            </div>
+            <div class="overlay hidden" id="overlay"></div>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

@@ -71,7 +71,7 @@ background-color: darkslategray;
 }
  */
 
-
+/* 
  .main-container {
     background-color: black;
     border-radius: 20px;
@@ -96,4 +96,15 @@ background-color: darkslategray;
     font-weight: bold;
     letter-spacing: 2px;
  }
+ */
+
+/* 
+ .active {
+    color: #00ff00 !important; /* Yorqin yashil rang */
+
+ 
+
+/* 
+
+/* Qachonki data-theme atributi "dark" bo'lsa, quti qora rangga kiradi */
 
