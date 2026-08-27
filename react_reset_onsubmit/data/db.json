@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "title": "gg",
+      "author": "sss",
+      "genre": "ilmiy",
+      "price": "12",
+      "id": "8vsC4m8Pfxw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
