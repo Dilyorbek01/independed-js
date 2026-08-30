@@ -1,0 +1,9 @@
+{
+  "todos": [
+    {
+      "text": "fgh",
+      "id": "iU1gipd0blk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
