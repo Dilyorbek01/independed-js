@@ -1,0 +1,13 @@
+{
+    "movies": [],
+
+    "questions": [{
+  "id": "q1",
+  "question": "React-da global ma'lumotlar omborini ochish uchun qaysi asbob ishlatiladi?",
+  "options": ["useState", "useEffect", "Context API", "Axios"],
+  "answer": "Context API"
+  }]
+   
+
+}
+
